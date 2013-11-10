@@ -10,5 +10,10 @@ public class Main
 		// branchTest1: added this comment!
 		// branchTest1: added another comment!
 		System.out.println("Hello World! " + new Date().getTime());
+		
+		for (int i = 0; i <10; i++)
+		{
+			System.out.println(i);
+		}
 	}
 }
