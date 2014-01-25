@@ -10,15 +10,20 @@ public class Main
 		// branchTest1: added this comment!
 		// branchTest1: added another comment!
 		// A comment....1234
-		// another-branch: added this comment :)
+		// another-branch: added this comment :) ...
 		// yet-another-branch: added this comment :)
 		System.out.println("Hello World! " + new Date().getTime());
 		
+		// change 1 to another-branch
 		for (int i = 0; i <10; i++)
 		{
 			System.out.println(i);
 		}
 		
 		boolean b = false;
+		
+		// change 2 to another-branch
+		// change 3 to another-branch
+
 	}
 }
